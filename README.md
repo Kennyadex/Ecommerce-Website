@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Meta-Dex-Platform/E-commerce
+  git clone https://github.com/Kennyadex/Ecommerce-Website
 ```
 
 Go to the project directory
